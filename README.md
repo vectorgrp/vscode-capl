@@ -1,3 +1,2 @@
-# Visual Studio Code CAPL extension
-
-This repository is for public resources used in the Visual Studio Code CAPL extension.
+# Visual Studio Code extension - CAPL
+This repository is a placeholder for public resources used in the `CAPL` Visual Studio Code extension. The extension itself is not open source. This repository is only inteded for storing public resources referenced in the marketplace page of the extension. 
